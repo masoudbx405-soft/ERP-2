@@ -1,0 +1,6 @@
+{
+  "name": "Smart Carpet ERP",
+  "description": "سامانه مدیریت هوشمند و جامع کارخانه قالیشویی (ERP) دارای بخش‌های راننده، انبار، حسابداری، پنل مدیریت و مشتریان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
